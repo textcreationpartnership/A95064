@@ -1,0 +1,706 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The danger of vowes neglected and the necessitie of reformation: or, A sermon preached before the Right Honorable House of Lords, at a late solemne fast in the Abbey Church at Westminster, May 27. 1646. By Francis Taylor B. in D. pastor of Yalding in Kent, and a member of the Assembly of Divines. Published according to order.</title>
+            <author>Taylor, Francis, 1590-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95064</idno>
+            <idno type="STC">Wing T272</idno>
+            <idno type="STC">Thomason E338_10*</idno>
+            <idno type="EEBO-CITATION">99861476</idno>
+            <idno type="PROQUEST">99861476</idno>
+            <idno type="VID">159715</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95064)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159715)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E338[10*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The danger of vowes neglected and the necessitie of reformation: or, A sermon preached before the Right Honorable House of Lords, at a late solemne fast in the Abbey Church at Westminster, May 27. 1646. By Francis Taylor B. in D. pastor of Yalding in Kent, and a member of the Assembly of Divines. Published according to order.</title>
+                  <author>Taylor, Francis, 1590-1656.</author>
+               </titleStmt>
+               <extent>[6], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.S. for Geo. Whittington, and Nath Brookes, at the Angel in Corn-hill, below the Exchange.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Order to print on verso of first leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Genesis XXXV, 1 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:159715:1"/>
+            <opener>
+               <dateline>
+                  <date>Die Jovis, 28. Maii. 1646.</date>
+               </dateline>
+            </opener>
+            <p>IT is this day ordered by the Lords in Parliament aſſembled, That M<hi rend="sup">r</hi>. <hi>Taylor</hi> is hereby thanked for his great pains taken in the Ser<g ref="char:EOLhyphen"/>mon he preached yeſterday before their Lordſhips in the Abby Church <hi>Weſtminſter.</hi> And he is de<g ref="char:EOLhyphen"/>ſired to print and publiſh the ſame, which is not to bee printed but by authority under his own hand.</p>
+            <closer>
+               <signed>John Brown Cleric. Partiamentorum.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <p>I do appoint <hi>George Whittington</hi> and <hi>Nathaniell Brookes</hi> to print my Sermon.</p>
+            <closer>
+               <signed>Francis Taylor.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:159715:1" rendition="simple:additions"/>
+            <p>THE DANGER OF Vowes neglected, AND The neceſsitie of REFORMATION: OR, A Sermon preached before the Right Honorable Houſe of Lords, at a late ſolemne Faſt in the Abbey Church at <hi>Weſtminſter, May</hi> 27. 1646.</p>
+            <p>By FRANCIS TAYLOR B. in D. Paſtor of <hi>Yalding</hi> in <hi>Kent,</hi> and a Member of the Aſſembly of Divines.</p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 50.14.</hi>
+               </bibl>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Pay thy Vowes unto the moſt High.</p>
+            </q>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>M. S.</hi> for <hi>Geo. Whittington,</hi> and <hi>Nath Brookes,</hi> at the Angel in Corn-hill, below the Exchange. 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:159715:2"/>
+            <pb facs="tcp:159715:2"/>
+            <head>TO THE RIGHT HONOURABLE THE HOUSE OF PEERES Aſſembled in <hi>PARLIAMENT.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">R</seg>Ight Honourable, theſe pains were un<g ref="char:EOLhyphen"/>dertaken by your command, and your Order was the Midwife to bring them into the light. I hope my imperfecti<g ref="char:EOLhyphen"/>ons ſhall finde a cover under the vaile of your authority. God knowes my hearts deſire was to mind you of your ſolemne Covenant, (which Lords be ſubject to a neg<g ref="char:EOLhyphen"/>lect of as well as meaner men) and to ſtirre you up to a private Reformation, without which yee can look for no bleſsing upon your publick endeavours. Endeavour I be<g ref="char:EOLhyphen"/>ſeech you to caſt every little moat out of your own eyes, be<g ref="char:EOLhyphen"/>fore you goe about to caſt the great beames out of the eyes of the Church and State.
+<note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Vajikra Rab. c.</hi> 5.</note> 
+               <hi>It is an afflicted Citie,</hi> ſay the Jewes, <hi>whoſe Phyſitian hath the Gout.</hi> The com<g ref="char:EOLhyphen"/>mon vote of the people will be,
+<note n="b" place="margin">Luke 4.23.</note> 
+               <hi>Medice, cura teipſum.</hi> Thoſe great things yee expect in Gods, doe them in your own
+<pb facs="tcp:159715:3"/>houſes, that yee may be able to ſay with Joſhuah
+<note n="c" place="margin">Joſh 24.15.</note>, <hi>I and my Houſe doe ſerve the Lord.</hi>
+               <note n="d" place="margin">
+                  <hi>Non ſolum obſunt vi<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſi principes, quòd illi pſi cor<g ref="char:EOLhyphen"/>rum untur, ſed etiam quòd corrumpunt; pluſque ex<g ref="char:EOLhyphen"/>emplo, quàm pecca<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o no<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</hi> Cicero de Leg. l 3.</note> Your vices and your peo<g ref="char:EOLhyphen"/>ples will be exemplary: ſo will your graces. Be valiant to put to your helping hand to purge and ſettle Church and State.
+<note n="e" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Sab fol.</hi> 32.1.</note> 
+               <hi>If the Shepheard be lame,</hi> ſayth the Talmud, <hi>the go its will eaſily make an eſcape.</hi> So will all ſorts of Delin<g ref="char:EOLhyphen"/>quents and Malefactors, if your Lordſhips goe ſlowly to work. I beſeech you ſtirre up your ſpirits, and be forward to ſettle a religious Diſcipline in Gods Church, according to your covenant. Give not the people occaſion to ſay, The let of Diſcipline is, becauſe great men cannot endure a through-reformation. The Lord that called you to ſuch a pitch of ho<g ref="char:EOLhyphen"/>nour, and height of employment, make your Lordſhips worthy inſtruments of his glory here, and fill you with glory in his own preſence in heaven. So prayeth</p>
+            <closer>
+               <signed>Your Lordſhips humble ſervant in the Lord Francis Taylor.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:159715:3"/>
+            <head>A SERMON PREACHED BEFORE The Right Honorable Houſe of LORDS at a ſolemne Faſt.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>GENES. 35.1.</hi>
+                  </bibl>
+                  <p>And God ſaid unto Jacob, Ariſe, goe up to Bethel, and dwell there, and make there an Altar unto God, that ap<g ref="char:EOLhyphen"/>peared unto thee, when thou fleddest from the face of Eſau thy brother.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Book of <hi>Geneſis</hi> containes the Cradle of the world, and the In<g ref="char:EOLhyphen"/>fancy of the Church. The Story is brought down from the very Creation to <hi>Joſephs</hi> death. The moſt remarkable Hiſtories are the lives of the three famous Patri<g ref="char:EOLhyphen"/>archs, <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> ſet out more largely then the reſt. In theſe yee have their manifold trials and deliverances. The Text is a part of <hi>Jacobs</hi> ſtory:
+<pb n="2" facs="tcp:159715:4"/>We find him in a ſad poſture, his daughter defiled, the <hi>Sbechemites</hi> ſlain by his ſons, their Citie ſpoyled,
+<note n="a" place="margin">Chap. 34.30.</note> him<g ref="char:EOLhyphen"/>ſelfe afraid leſt the Countrey riſe up againſt him, and deſtroy both him and his. In this heavie condition God appears unto him. The Text doth not expreſsly ſet down when this apparition was, but the connexion of it to the former ſtory, and the great need <hi>Jacob</hi> had of Gods appearing then, and
+<note n="b" place="margin">Gen. 22.10, 11.14. &amp; <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8.10, &amp;c.</note> Gods uſuall manner of making the Saints neceſſities his opportunities, per<g ref="char:EOLhyphen"/>ſwade the Interpreters to beleeve, that it was preſent<g ref="char:EOLhyphen"/>ly after the ſlaughter of the <hi>Shechemites.</hi> And the vul<g ref="char:EOLhyphen"/>gar reads it, <hi>Interea,</hi> In the mean while. While <hi>Jacob</hi> was muſing what courſe to take to avoid the rage of the neighbouring Canaanites, God appeares to him for his comfort. Neither is it ſet down what manner of apparition this was, whether in a viſion by day, or in a dream by night. Sure it was not a meſſage ſent by a<g ref="char:EOLhyphen"/>ny Prophet to <hi>Jacob:</hi> and certain it is, it was not <hi>muta apparitio,</hi> a dumb ſhew; but as <hi>Jacob</hi> had Gods pre<g ref="char:EOLhyphen"/>ſence <hi>ad erigendum,</hi> to comfort and liſt up his dejected ſpirits, ſo he had alſo his word <hi>ad dirigendum,</hi> to direct his wandring thoughts what ſafe courſe they might pitch upon. God dealt with his children then, as we doe with ours now; hee appeared to them and told them his will and pleaſure, that they might teach it to others: So we keep our children at home when they are young, and ſpeak to them our ſelves; but when they are bigger, we employ them abroad, and let them know our mind by letters. That former courſe of appariti<g ref="char:EOLhyphen"/>ons we muſt not expect now. It is ſufficient that
+<note n="c" place="margin">Hoſea 8.2.</note> God hath
+<note n="d" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Macar. Hom.</hi> 39.</note> written to us the great things of his law for our direction; and it is our ſin if we count them as a ſtrange thing, and long after apparitions, as if wee were ſtill in the infancy of the Church.</p>
+            <pb n="3" facs="tcp:159715:4"/>
+            <p> The ground of obſervation is explication; wherein the more pains is to be taken, becauſe our Interpreters trouble us with many Topographicall ſcruples, and Metaphyſicall ſpeculations.</p>
+            <div type="section">
+               <head>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Ariſe.</hi>
+               </head>
+               <p>Some conceive that God hath reſpect to the po<g ref="char:EOLhyphen"/>ſture of <hi>Jacobs</hi> body, who might now be laid in his bed. Others, that God looks at the ſadneſſe of his heart, which was caſt down within him. The former thinke that <hi>Jacob</hi> is called out of his bed; the other ſuppoſe he is called out of his dumps. The truth is, the He<g ref="char:EOLhyphen"/>brew word in the Scripture uſe of it, doth not neceſſa<g ref="char:EOLhyphen"/>rily imply either; it rather calls upon men to prepare themſelves to goe about the work which God enjoyns them. So when
+<note n="e" place="margin">1 Kings 21.18.</note> God bids <hi>Elijah</hi> to <hi>ariſe and goe down to meet Ahab:</hi> and alſo to
+<note n="f" place="margin">2 Kings 1.9.</note> 
+                  <hi>ariſe and goe up to meet the meſſengers of Ahaziah;</hi> he intends no more then that he ſhould ſet himſelfe about that work. Neither doth it appeare, that <hi>Eliah</hi> was at that time either laid in body, or troubled in mind.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Goe up.</hi>
+               </head>
+               <p>Neither doth this word argue that <hi>Bethel</hi> was higher by ſituation, then <hi>Shechem:</hi> for in Scripture phraſe both <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>to goe up,</hi> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>to goe down,</hi> are often uſed onely for going on, or forward, without reſpect to the various ſituations of the places mentioned, higher or lower. So God ſaith,
+<note n="g" place="margin">Ezek. 26.3.</note> 
+                  <hi>O Tyrus, I will cauſe many Nati<g ref="char:EOLhyphen"/>ons to come up againſt thee.</hi> We know that <hi>Tyrus</hi>
+                  <note n="h" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>In the heart of the ſeas,</hi> Ezek. 27.4.</note> ſtood on the Seas; and we read that men
+<note n="i" place="margin">Pſal. 107.23.</note> 
+                  <hi>go down to the Sea.</hi> And <hi>Sennacharib</hi> King of <hi>Aſſyria,</hi> is ſaid to
+<note n="k" place="margin">Iſa. 36.10. See the like 2 Sam. 2.1. &amp; 5.19.</note> 
+                  <hi>come up</hi> a<g ref="char:EOLhyphen"/>gainſt all the defenced Cities of <hi>Judah,</hi> yet it doth not appeare that <hi>Aſſyria</hi> was lower in ſituation then the land of <hi>Judah.</hi> And on the other ſide, <hi>Jephtha's</hi> daugh<g ref="char:EOLhyphen"/>ter
+<pb n="4" facs="tcp:159715:5"/>deſires
+<note n="l" place="margin">Iudg. 11.37.</note> to goe up and down upon the mountaines to bewaile her virginity for a time: that is no more then to goe from one place to another on the hills. And
+<note n="m" place="margin">Iudg 15.11. See the like 1 Sam 33.6. 2 Sam 2<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.21 2 Kings 8.29. Jer. 18.<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. and 21.1.</note> three thouſand men of <hi>Judah</hi> are ſaid in the o<g ref="char:EOLhyphen"/>riginall to goe down to the top of the rock <hi>Etam,</hi> which the Tranſlators have carefully rendred <hi>went.</hi> So that as the former word <hi>Riſe</hi> required a preparation for the journey, ſo this word <hi>Goe up,</hi> requires a pro<g ref="char:EOLhyphen"/>greſſe in it till he come there. He muſt neither be diſ<g ref="char:EOLhyphen"/>couraged from undertaking it, nor give it over before he have finiſhed it.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>To Bethel.</hi>
+               </head>
+               <p>But why is <hi>Jacob</hi> commanded to goe to <hi>Bethel?</hi> God needs not give any reaſon of his commands: his will is to us a rule. Yet the equity of this command, and Gods indulgence to <hi>Jacob</hi> herein, appears by theſe fol<g ref="char:EOLhyphen"/>lowing conſiderations: Firſt, by this means <hi>Jacob</hi> was carried away out of the ſight of his enemies; his very being among them would have been a perpetuall eye<g ref="char:EOLhyphen"/>ſore to them, and the ſight of him and his a daily pro<g ref="char:EOLhyphen"/>vocation to revenge. Secondly, the very name of <hi>Be<g ref="char:EOLhyphen"/>thel</hi> might be a comfort to <hi>Iacob:</hi> it ſignifies <hi>Gods houſe;</hi> and whither ſhould Gods people goe for conſolation and protection, rather then to Gods houſe? Thirdly, himſelfe had found comfort there in former troubles, as appeares in the end of the Text. Fourthly and laſt<g ref="char:EOLhyphen"/>ly, there he might perform his vow to God,
+<note n="n" place="margin">Chap. 28.10</note> which he had vowed many yeares before, and hitherto negle<g ref="char:EOLhyphen"/>cted. This God ſeems to have an eſpeciall eye upon in this command, as appeares by the enſuing words, <hi>Make there an Altar, &amp;c.</hi>
+               </p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>And dwell there.</hi> That is, make it thy habi<g ref="char:EOLhyphen"/>tation for a time. Others read it, <hi>ſtay,</hi> or <hi>tarry there;</hi> to
+<pb n="5" facs="tcp:159715:5"/>wit, till thy vow be performed. So the word is uſed, 2 Sam. 10.5. <hi>Tarry at Iericho untill your beards be grown, and then return.</hi>
+               </p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>And make there an Altar.</hi>
+               </p>
+               <p>God doth not intend the bare ſetting up of an Al<g ref="char:EOLhyphen"/>tar, but that when hee had built it, hee ſhould offer ſa<g ref="char:EOLhyphen"/>crifices on it, and acknowledge Gods mercy to him in providing ſo liberally for him, and protecting him from the fury of his brother <hi>Eſau.</hi> So did <hi>Abraham</hi>
+                  <note n="o" place="margin">Gen. 13.18. compared with chap. 22.2.9.</note> in the plain of <hi>Mamre</hi> build an Altar, not to look upon it doubtleſſe, but to offer ſacrifices. And in this man<g ref="char:EOLhyphen"/>ner of worſhipping God, queſtionleſſe his poſterity were bred up. And to what purpoſes were places a<g ref="char:EOLhyphen"/>mong us appointed for religious exerciſes, if none were there performed?</p>
+            </div>
+            <div type="section">
+               <head>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Unto God.</hi>
+               </head>
+               <p>There is a great queſtion among Interpreters, why God ſhould ſpeak himſelfe here in the third perſon, and why he ſaith, <hi>Unto God,</hi> and not <hi>Unto me.</hi> Some Writers both
+<note n="p" place="margin">
+                     <hi>Vide Auguſt. Quaeſt. in Gea. Quaeſt.</hi> 110. <hi>&amp; Willet in Text.</hi>
+                  </note> ancient and modern, pick out of it, the Divine nature of our Saviour Chriſt, and the Trinity of Perſons in the Godhead. Some would have God the Father to be the ſpeaker, and to direct <hi>Jacob</hi> to the worſhip of his Son Chriſt, the ſecond Perſon in the Trinity. Others, that Chriſt ſhould appeare to <hi>Iacob,</hi> (who in the judgement of our Divines, was the perſon that uſed to appeare to them in the old Teſtament) and call upon him to build an Altar to God the Fa<g ref="char:EOLhyphen"/>ther. Doubtleſſe wee have plain places ſufficient in Scripture to prove Chriſts Divine Nature, and the Trinity of Perſons, and therefore need not to preſſe this place to that end, leſt we doe as weak builders,
+<note n="q" place="margin">
+                     <hi>Debile ſun<g ref="char:EOLhyphen"/>damen<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>um fallit opus.</hi> Wainflaet. de Gram.</note> lay ſo infirm a foundation, that the whole building
+<pb n="6" facs="tcp:159715:6"/>fall to the ground: or as wilfull Souldiers, who de<g ref="char:EOLhyphen"/>fend a weak Fort againſt a ſtrong enemy, and ſo are vanquiſhed. It is clear that God ſpeaks of himſelf of<g ref="char:EOLhyphen"/>ten in the third perſon, where no ſuch myſtery is in<g ref="char:EOLhyphen"/>tended; as when he ſaith, that
+<note n="r" place="margin">Gen. 18.19.</note> 
+                  <hi>Abraham</hi> will teach his houſhold, and they ſhall keep the way <hi>of the Lord,</hi> that <hi>the Lord</hi> may bring upon <hi>Abraham</hi> that which he hath ſpoken of him. And,
+<note n="ſ" place="margin">Gen. 18.14.</note> 
+                  <hi>Is any thing too hard for the Lord?</hi> God is no more tied to give an account of his words, then of his actions. He may ſpeak of himſelfe as he pleaſeth. Yet I doubt not but many reaſons of this phraſe may be given, which may yeeld profit unto us.</p>
+               <p>As firſt, God may ſpeak thus of himſelfe for cer<g ref="char:EOLhyphen"/>tainty ſake, that <hi>Iacob</hi> might know who ſpake to him, and to whom he was to build an Altar; that hee need not ſay with <hi>Saul,
+<note n="t" place="margin">Acts 9.5.</note> Lord, who art thou, Lord?</hi> Nor with <hi>Samuel</hi>
+                  <note n="u" place="margin">1 Sam. 3.4, 5.</note> run to <hi>Eli</hi> when God called him. Secondly, for Majeſty ſake: ſo in the third Commandment, God doth not ſay, Thou ſhalt not take my Name in vain: but, thou ſhalt not take the Name of <hi>the Lord thy God</hi> in vain. And in the fourth, The ſeventh day is the Sabbath of <hi>the Lord thy God.</hi> It was a ſtrong argument to diſſwade them from diſhonoring Gods Name, and perſwade them to the obſervation of the Sabbath, be<g ref="char:EOLhyphen"/>cauſe they both did belong, not to any mortall man, King, or Emperour, but to that glorious Lord who was their God. Thirdly, for intereſt ſake; that it might appeare that God had an intereſt in <hi>Iacob</hi> by reaſon of his former appearing to him in his troubles, and therefore deſerved a journey and an Altar at his hands. So God bids <hi>Abraham</hi> to offer <hi>Iſaac</hi>
+                  <note n="x" place="margin">Gen. 12.2.</note> his ſon, putting him in mind what intereſt hee had in him. Fourthly, for equity ſake, that it might appeare to be
+<pb n="7" facs="tcp:159715:6"/>a very juſt and equall ſervice, that God required of <hi>Iacob,</hi> although the ſpeaker had not been that God, nor <hi>Jacob</hi> ever made a vow to build an Altar to him. And therefore God neither ſpeakes of himſelfe in the firſt perſon, nor names <hi>Jacobs</hi> vow, but onely limits both the perſon and the vow unto him. I conceive theſe rea<g ref="char:EOLhyphen"/>ſons to be ſufficient and uſeful, and proceed to the next words.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>That appeared unto thee.</hi>
+               </head>
+               <p>The ſtory is in the twenty and eight chapter; ſee there the apparition ſet down at large.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>When thou fleddeſt.</hi>
+               </head>
+               <p>
+                  <hi>Jacob</hi> was then in a ſad eſtate, an exile as it were from his fathers houſe by the malice of his brother <hi>Eſau,</hi> for<g ref="char:EOLhyphen"/>ſaken by all his friends, forced to go ſeek for ſubſiſte<g ref="char:cmbAbbrStroke">̄</g>ce in forein Countries: yet now is the time that God chu<g ref="char:EOLhyphen"/>ſeth to appear unto him, &amp; not formerly when he had both friends and comfort in his fathers houſe. So that <hi>Jacob</hi> might have ſaid then, as <hi>David</hi> doth afterwards,
+<note n="y" place="margin">Pſal. 27.10.</note> 
+                  <hi>When my Father and my Mother forſook me, then the Lord took me up.</hi> God is like a faithfull friend, who ſtands to his, when they have moſt need of him. Not like to Courtiers, who follow the Sun of mens proſperities (as
+<note n="z" place="margin">
+                     <hi>Aſpicis ut veniant ad candida tecta columbae. Accipiant nullas ſordida turris aves,</hi> Ovid. Triſt. l. 1. Eleg. 8.</note> 
+                  <hi>Pigeons</hi> fly to new whited houſes) and forſake them in the dark ſhadow of their adverſities.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>From the face.</hi>
+               </head>
+               <p>Mens ill affection towards others appears in their faces. So did <hi>Labans</hi> appear to <hi>Jacob
+<note n="a" place="margin">Gen. 31.2.</note>. And Jacob be<g ref="char:EOLhyphen"/>held the countenance of Laban, and behold, it was not to<g ref="char:EOLhyphen"/>ward him as before.</hi> Hence it is that we are afraid to abide in the preſence of ſuch as hate us, becauſe we ex<g ref="char:EOLhyphen"/>pect
+<pb n="8" facs="tcp:159715:7"/>miſchiefe daily from them, which we ſeek to pre<g ref="char:EOLhyphen"/>ſent by flying out of their ſight. Such counſell <hi>Re<g ref="char:EOLhyphen"/>becca</hi> gives to her ſonne <hi>Jacob</hi> to goe to her bro<g ref="char:EOLhyphen"/>ther <hi>Laban,</hi>
+                  <note n="b" place="margin">Gen. 27.43, &amp;c.</note> till <hi>Eſaus</hi> fury were over, and then he might return in ſafety.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Of Eſau thy brother.</hi>
+               </head>
+               <p>
+                  <hi>Jacob</hi> might well think that that God which would not ſuffer a brother to hurt him then, would not per<g ref="char:EOLhyphen"/>mit the Canaanites to ſpoyle him now.</p>
+               <p>The ſumme of all is, as if God ſhould have ſaid to <hi>Jacob,</hi> I know thou art in great diſtreſſe, and I will not forſake thee: Prepare thy ſelfe for a Journey: thinke that all theſe things are come upon thee for the neg<g ref="char:EOLhyphen"/>lect of thy vow; goe now therefore to <hi>Bethel</hi> and per<g ref="char:EOLhyphen"/>form it. It is a very juſt and equall thing, that thou who needeſt and lookeſt for help from me now again, ſhouldſt goe build an Altar to me there as thou haſt promiſed, and ſhouldſt offer ſacrifice and thankes to me. When this is done, I that did deliver thee before from <hi>Eſau</hi> thy brother, will alſo ſafeguard thee againſt theſe Canaanites.</p>
+               <p>Out of which words thus interpreted, ariſe naturally theſe foure proſititions ſutable to the time, and profi<g ref="char:EOLhyphen"/>table for this preſent occaſion of our meeting.</p>
+               <p>Firſt,
+<label type="milestone">
+                     <seg type="milestoneunit">Obſerv. </seg>1</label> that Gods deare ſervants ſometimes are very forgetfull of their vowes made even to God himſelfe.</p>
+               <p>Secondly,
+<label type="milestone">
+                     <seg type="milestoneunit">Obſerv. </seg>2</label> that this forgetfulneſſe is an occaſion of many and great troubles to them.</p>
+               <p>Thirdly,
+<label type="milestone">
+                     <seg type="milestoneunit">Obſerv. </seg>3</label> that God will at length rub up their me<g ref="char:EOLhyphen"/>mories, and put them in mind of their vowes.</p>
+               <pb n="9" facs="tcp:159715:7"/>
+               <p> Fourthly, that in performance of vowes,
+<label type="milestone">
+                     <seg type="milestoneunit">Obſerv. </seg>4</label> and in times of Reformation, God looks for his part firſt.</p>
+            </div>
+            <div type="section">
+               <head>For the firſt.</head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doctr. </seg>1</label> Gods dear ſervants ſometimes are very forgetfull of their vowes made even to God himſelfe.</p>
+               <p>A man may juſtly wonder, why <hi>Jacob</hi> had not per<g ref="char:EOLhyphen"/>formed his vow before now. God had freed him from <hi>Labans</hi> purſuit, and ſent <hi>Laban</hi> quietly back again. God had delivered him from <hi>Eſau's</hi> oppoſition, and ſent <hi>Eſau</hi> away in peace. What hindred <hi>Jacob</hi> from going to <hi>Bethel?</hi> He might as eaſily have gone thither as to <hi>Shechem;</hi> Sure nothing hindred him, but his own forgetfulneſſe: and that is ſo much the more ſtrange, becauſe God him ſelfe had put him in mind of his vow in direct terms, when he commanded him to returne home, and promiſed to bleſſe him.
+<note n="c" place="margin">Gen 31.13.</note> 
+                  <hi>I am the God of Be<g ref="char:EOLhyphen"/>thel</hi> (ſaith he) <hi>where thou anointedſt the pillar, and where thou vowedſt a vow unto me.</hi> But <hi>Jacob</hi> had got a quiet habitation at <hi>Shechem,</hi> commodious for him and his cattell, and there he tarries till God fire him out. <hi>Di<g ref="char:EOLhyphen"/>nah</hi> is raviſhed, he and his in danger of deſtruction, and yet he thinks not of going to <hi>Bethel</hi> till God bids him. This is noted by Interpreters to be the firſt vow mentioned in Scripture. Hence it is, that <hi>Jacob</hi> is cal<g ref="char:EOLhyphen"/>led by ſome of them, <hi>Voterumpater,</hi> the father of vows. Yet this firſt vow is ſtrangely neglected when it might eaſily have been performed. We cannot think any worſe of <hi>Jacob,</hi> then of <hi>Pharaohs</hi> Butler, who
+<note n="d" place="margin">Gen 40.23.</note> forgat <hi>Joſeph,</hi> and remembred him not, though he did very well deſerve to be remembred.</p>
+               <p>But what may be the reaſon that good men ſhould
+<pb n="10" facs="tcp:159715:8"/>be ſo forgetfull of God? It is no marvell if wicked men forget him: they uſe God as men uſe Phyſitians, ſend for them when they are ſick, and ſlight them when they are well. But it is ſtrange that good men who love God, ſhould ſo much neglect him.</p>
+            </div>
+            <div type="section">
+               <head>The Reaſons may be theſe:</head>
+               <p>Firſt,
+<label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>1</label> becauſe of that naturall wound our memories have received by the fall of our firſt parents. For as our underſtanding is naturally filled with folly, our wills with croſsneſſe to all goodneſſe, our affections with peeviſhneſſe; ſo our memories with forgetfulneſſe of holy things. And this forgetfulneſſe remains after re<g ref="char:EOLhyphen"/>generation. For as the underſtanding, will, and affecti<g ref="char:EOLhyphen"/>ons are not perfectly cleanſed and cleared in this world: ſo is not the memory neither. This may eaſily make us forget vowes as well as other good duties.</p>
+               <p>Secondly,
+<label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>2</label> becauſe of length of time between the vow made and to be performed. We pray and vow to God in our difficulty; it may be long before that iſſue come that we expect, and ſo our vowes are for<g ref="char:EOLhyphen"/>gotten. This was <hi>Jacobs</hi> caſe; hee had been twenty yeares with <hi>Laban</hi> ſince his vow was made, and ſo had let it ſlip out of his mind.</p>
+               <p>Thirdly,
+<label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>3</label> becauſe of multitude of buſineſſes, which Gods ſervants are ſubject to as well as other men. They have bodies, wives, children, ſervants, to take care for as well as others: they have goods, cattell, eſtates to look after as well as wicked men. The thoughts of worldly affairs, as they hinder them much in other matters of piety: ſo likewiſe in payment of vowes.</p>
+               <p>Fourthly,
+<label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>4</label> becauſe of many and ſtrong oppoſitions they find in their pilgrimage. <hi>Jacob</hi> had no ſooner left <hi>Labans</hi> houſe, but preſently
+<note n="e" place="margin">Gen. 31.22, 23.</note> 
+                  <hi>Laban</hi> purſues him, and
+<pb n="11" facs="tcp:159715:8"/>quarrels with him. He hath no ſooner diſmiſſed <hi>La<g ref="char:EOLhyphen"/>ban,</hi> but
+<note n="f" place="margin">Gen. 32.6.</note> 
+                  <hi>Eſau</hi> his brother comes out with an Army a<g ref="char:EOLhyphen"/>gainſt him. When <hi>Eſau</hi> was gone, he feares the <hi>Ca<g ref="char:EOLhyphen"/>naanites,</hi> leſt they ſhould all riſe up to deſtroy him, becauſe of the wrong done to the <hi>Shechemites.</hi> This might be one occaſion of <hi>Jacobs</hi> forgetting his vow. And ſo it may be to us alſo, who ſhall meet with op<g ref="char:EOLhyphen"/>poſition as well as he.</p>
+               <p>I ſhall omit the Application, till I have handled the other points, and proceed to the ſecond obſerſation.</p>
+               <p>The forget fulneſſe of performing vowes,
+<label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>2</label> is an occa<g ref="char:EOLhyphen"/>ſion of many and great troubles.</p>
+               <p>This <hi>Shel. Jarchi</hi> conceives to be the cauſe of all theſe troubles. He brings in God ſpeaking to <hi>Jacob,</hi> and ſaying,
+<note n="g" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Shel. Jar. in Text.</note> 
+                  <hi>Becauſe thou haſt ſtaid long in the way, thou art fined, and this trouble is befallen thee concerning thy daughter.</hi> The word he uſeth is uſed for a fine ſet on de<g ref="char:EOLhyphen"/>linquents heads by the Judges. So ſaith <hi>Moſes,
+<note n="h" place="margin">Deut. 22.19.</note> They ſhall amerce him in an hundred ſhekels of ſilver.</hi> So this Authour looks upon God as a Judge impoſing theſe troubles upon <hi>Jacob</hi> as a fine for the neglecting of his vow. So <hi>Ferus</hi> on the Text,
+<note n="i" place="margin">
+                     <hi>Nil mirum, quòd adverſa tibi contige<g ref="char:EOLhyphen"/>rint cum ba<g ref="char:EOLhyphen"/>ctenus tam diu diſtuleris votum.</hi> Ferus in Text.</note> 
+                  <hi>No wonder that croſſes have befallen thee, ſeeing thou haſt ſo long deferred the pryment of thy vow.</hi>
+               </p>
+               <p>We find in Scripture, that the people of <hi>Iſrael</hi> were puniſhed with
+<note n="k" place="margin">2 Sam. 21.</note> three years famine, becauſe <hi>Saul</hi> not out of his zeale to God, but to pleaſe the people, had ſlain ſome of the Gibeonites, contrary to the
+<note n="l" place="margin">Joſh. 9.15.</note> oath made to them by <hi>Joſhua,</hi> and the Elders of Iſrael; yet was this vow
+<note n="m" place="margin">Joſh. 9.4.</note> fraudulently gotten by lying and de<g ref="char:EOLhyphen"/>ceit. Neither did <hi>Saul</hi> ever take this vow himſelf. We read further of <hi>Sampſon,</hi> that he was a
+<note n="n" place="margin">Judg. 13 5.</note> Nazarite to God
+<pb n="12" facs="tcp:159715:9"/>from the womb. It appeares in the law that the Naza<g ref="char:EOLhyphen"/>rites
+<note n="o" place="margin">Numb. 62.5.</note> took a ſolemne vow; their haire was not to be cut. <hi>Sampſon</hi> did not purpoſe to break this vow, but be<g ref="char:EOLhyphen"/>ing overcome with luſt by <hi>Dalila's</hi> perſwaſion gives an hint how his vow might be broken. The fearfull con<g ref="char:EOLhyphen"/>ſequences hereof appeare in the ſtory of the <hi>Judges.</hi>
+                  <note n="p" place="margin">Judg. 16.21.25.</note> 
+                  <hi>Sampſon</hi> is taken by the Philiſtines, his eyes put out, he is bound with fetters of braſſe, grinds in the priſon<g ref="char:EOLhyphen"/>houſe, and is made a laughing ſtock to thoſe that durſt not look upon him before.
+<note n="q" place="margin">2 Sam. 15.7</note> 
+                  <hi>Abſolom</hi> abuſeth a vow, that under pretence thereof he may deprive his father both of kingdome and life.
+<note n="r" place="margin">2 Sam 18.15.</note> This coſt <hi>Abſolom</hi> his deareſt life. The King of Judah
+<note n="ſ" place="margin">Ezek. 17.13.16.</note> had vowed obedience to the King of Babylon; he breaks this vow, and God paſſeth this ſentence on him, that <hi>hee ſhould die in the land of that King whoſe covenant he had broken.</hi> Will God be thus ſevere for breach of a vow made to a mor<g ref="char:EOLhyphen"/>tall man, and an heathen King, what will he do then for breach of vows made unto himſelf?</p>
+               <p>It is time to come to reaſons for the proofe of the point; wherein I ſhal deſire to be ſomwhat large, in re<g ref="char:EOLhyphen"/>gard of the weight of the matter, and the preſent need.</p>
+               <p>Firſt,
+<label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>1</label> God is deeply offended w<hi rend="sup">th</hi> ſuch as perform not their vows. And when God is angry, what can his chil<g ref="char:EOLhyphen"/>dren look for from him, but the blows &amp; ſtripes of an angry father? That God is much diſpleaſed with ſuch perſons, appeares by many arguments that may be ta<g ref="char:EOLhyphen"/>ken out of the fifth chapter of <hi>Eccleſiaſtes.</hi> For
+<note n="t" place="margin">Eccleſ 5.4, 5.6.</note> firſt, God gives no day. He that makes a vow, muſt not de<g ref="char:EOLhyphen"/>ferre the payment of it. Secondly, God calls them fooles that doe deferre the payment of vowes. And who doubts but parents are angry when they give ſuch terms to their children? Thirdly, hee ſaith, <hi>God
+<pb n="13" facs="tcp:159715:9"/>hath no pleaſure in them:</hi> that is, hee is very angry; as in the third commandement, <hi>God will not hold him guiltleſs that taketh his name in vain:</hi> that is, hee will hold him very guilty. And in <hi>Elies</hi> reproof of his ſons,
+<note n="u" place="margin">2 Sam. 2.24.</note> 
+                  <hi>It is no good report,</hi> ſaith he, <hi>that I heare:</hi> that is, it is a very bad one. For they were no ſmall ſins, that were reported of them, as
+<note n="x" place="margin">1 Sam. 1.14.15.22.</note> robbing God of the fat of his offerings, and lying with the women at the doore of the Tabernacle of the Congregation. So on the contrary, when the Pſalmiſt ſaith, that
+<note n="y" place="margin">Pſal. 51.17.</note> 
+                  <hi>God wil not deſpiſe a contrite and a broken heart;</hi> he means, God will account highly of it, and largely reward it. Fourthly, he ſaith, <hi>It is better not to vow at all, then not to pay.</hi> Who doubts but a man is angry when he heares him chiding with his neigh<g ref="char:EOLhyphen"/>bour, and ſaying; I had rather you never had promi<g ref="char:EOLhyphen"/>ſed me ſuch a good office, then to fail when I looked for it? Fifthly, he calls it <hi>ſinne</hi> in plain terms, <hi>Suffer not thy mouth to cauſe thy fleſh to ſin.</hi> And is not God angry at ſin? Sixthly, it is ſuch a ſinne as God will not have covered with the vail of an error. <hi>Neither ſay thou be<g ref="char:EOLhyphen"/>fore the Angel, that it was an error.</hi> Seventhly, hee pro<g ref="char:EOLhyphen"/>feſſeth expreſsly, that God is angry at it; <hi>Wherefore ſhould God be angry at thy voyce?</hi> Eighthly, hee gives a reall demonſtration of Gods anger, <hi>Why ſhould hee de<g ref="char:EOLhyphen"/>ſtroy the work of thy hands?</hi> Is not God angry when hee layes ſnares for men as we doe for wild beaſts to catch and deſtroy them?
+<note n="z" place="margin">Pro. 20.29.</note> 
+                  <hi>It is a ſnare</hi> (ſaith <hi>Solomon</hi>) <hi>to the man who devoureth that which is holy, and after vowes to make enquiry.</hi> Ask <hi>David</hi> who rains ſnares upon un<g ref="char:EOLhyphen"/>godly men, and he will tell you, it is the Lord.
+<note n="a" place="margin">Pſal. 11.6.</note> 
+                  <hi>Upon the wicked he ſhall rain ſnares.</hi> Ask <hi>Ezekiel</hi> who brings covenant-breakers into ſnares, and he will tell you, it is God.
+<note n="b" place="margin">Ezek. 17.20</note> 
+                  <hi>I will ſpread my net upon him, and he ſhall be ta<g ref="char:EOLhyphen"/>ken
+<pb n="14" facs="tcp:159715:10"/>in my ſnare.</hi> Is not God very angry with thoſe whom he curſeth? We read in <hi>Malachi,
+<note n="c" place="margin">Mal. 1.14.</note> Curſed bee the deceiver which hath in his flock a
+<note n="d" place="margin">That is, a ſound male. <hi>Elleipſis</hi> of the epithire, as <hi>I<g ref="char:EOLhyphen"/>ſai</hi> 1.18 <hi>wooll,</hi> for <hi>wh<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e woll;</hi> and <hi>Iſai</hi> 5.4. <hi>grapes</hi> for <hi>good grapes.</hi>
+                     </note> male, and voweth and ſacrificeth unto the Lord a corrupt thing.</hi> And a ſtrong reaſon, yea double one is added; Firſt, becauſe God is a great King, and will not be dallied with by his ſubjects. And ſecondly, becauſe his Name is dreadfull among the heathen, and therefore ſhall not be diſhonored by his own people. God keeps covenant faithfully him<g ref="char:EOLhyphen"/>ſelf.
+<note n="e" place="margin">Pſal. 111.5.</note> 
+                  <hi>He will ever be mindfull of his covenant.</hi> Gods co<g ref="char:EOLhyphen"/>venant is called <hi>an everlaſting covenant, and a covenant of ſalt,</hi> 2 <hi>Chron.</hi> 13.5. And as men who ſtrictly keep day themſelves, are ſooneſt angry with ſuch as doe not: ſo Gods care of keeping, will make him a ſharp revenger of breach of covenant in others.
+<note n="f" place="margin">Ezek. 17.59</note> 
+                  <hi>Therefore thus ſaith the Lord God, As I live, ſurely mine oath that he hath de<g ref="char:EOLhyphen"/>ſpiſed, and my covenant that he hath broken, even it will I recompence upon his own head.</hi>
+               </p>
+               <p>Secondly,
+<label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>2</label> God will bring many troubles upon neg<g ref="char:EOLhyphen"/>lecters of vowes, becauſe his Church and people who are neer and deer unto him, may both be offended and hurt thereby. No doubt it was a great griefe to <hi>David</hi> and other godly men, that
+<note n="g" place="margin">2 Sam. 21.1.</note> 
+                  <hi>Saul</hi> had broken the vow made to the <hi>Gibeonites;</hi> and it appeares it brought much trouble to <hi>Iſrael,</hi> even a famine of three yeares one ſucceeding another.</p>
+               <p>Thirdly,
+<label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>3</label> God raiſeth up enemies to afflict thoſe that neglect their vowes, as the
+<note n="h" place="margin">Iudg. 16.20.</note> 
+                  <hi>Philiſtines</hi> againſt <hi>Sampſon.</hi> So here <hi>Jacob</hi> was afraid leſt God would have done the like to him, as appeares in the end of the former chap<g ref="char:EOLhyphen"/>ter. And theſe enemies God makes to doe his work, when they think they do their own. The King of <hi>Baby<g ref="char:EOLhyphen"/>lon</hi> though he went only to revenge his own quarrel on
+<pb n="15" facs="tcp:159715:10"/>the King of <hi>Ludah,</hi> yet he brings him
+<note n="i" place="margin">Ezek. 17.20.</note> into Gods net for a puniſhment of his perjury.</p>
+               <p>Fourthly,
+<label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>4</label> becauſe there is a kind of perjury in fai<g ref="char:EOLhyphen"/>ling in performance of vowes. I will not ſay that oathes, and vowes, and covenants, are all one in every circumſtance: but certainly they are couſen germans at leaſt, and can hardly be ſeparated.
+<note n="k" place="margin">Pſal 119.106.</note> 
+                  <hi>I have ſworn</hi> (ſaith the Pſalmiſt) <hi>and I will perform it, that I will keep thy righteous judgements.</hi> And was not that oath a vow?
+<note n="l" place="margin">Gen. 3.48.50. <hi>Tumulus re<g ref="char:EOLhyphen"/>ſtu, Deus teſtu. Tumulus ſacra<g ref="char:EOLhyphen"/>menta<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iter, quia ſignum eſt teſtiſi<g ref="char:EOLhyphen"/>cans de re gefia ad poſteri. aten<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Deus propriè, quia teſtatur in conſcientiam de pacto into, &amp; at<g ref="char:EOLhyphen"/>teſtabitur ſuis iu<g ref="char:EOLhyphen"/>diciis, &amp; vindicta adverſur periures.</hi>
+                  </note> God is called to beare witneſſe of the covenant be<g ref="char:EOLhyphen"/>tween <hi>Laban</hi> and <hi>Jacob,</hi> and ſo is the heap of ſtones al<g ref="char:EOLhyphen"/>ſo, yet with a great deale of difference; the heap is a witneſſe ſacramentally, as it were; it remained as a to<g ref="char:EOLhyphen"/>ken of that league. But God is properly called to wit<g ref="char:EOLhyphen"/>neſſe, as one who heard all their words, and would te<g ref="char:EOLhyphen"/>ſtifie the truth to both their conſciences, and by judge<g ref="char:EOLhyphen"/>ments on the party that ſhould break it. He that vows and payes not, is a perjured perſon, ſaith
+<note n="m" place="margin">
+                     <hi>Voven<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> &amp; ne<g ref="char:cmbAbbrStroke">̄</g> ſolvens peierat.</hi> Bern de praec. &amp; diſpenſ. cap. 20.</note> 
+                  <hi>Bernard.</hi> This perjury makes our ſins the greater, eſpecially in thoſe things that we ought to do, if we had never vow<g ref="char:EOLhyphen"/>ed them, as cyphers added to a figure, may make one a thouſand. Perjury is a ſin odious to the <hi>Turks</hi> and <hi>Ma<g ref="char:EOLhyphen"/>hometanes.
+<note n="n" place="margin">See the <hi>Tur<g ref="char:EOLhyphen"/>kiſh</hi> hiſtory.</note> Amurath</hi> when <hi>Uladiſlaus</hi> by the perſwaſion of <hi>Julian</hi> the Popes Legat, had broken his covenant with him, and fought againſt him, drawes the Articles out of his boſome, &amp; calls upon Chriſt for vengeance on his perfidious ſervants. In this battell were ſlain both the King and the Cardinall; over whom the Au<g ref="char:EOLhyphen"/>thor of the <hi>Complaint of Hungery</hi> infults, ſaying,
+<note n="o" place="margin">I n<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Iulia<g ref="char:EOLhyphen"/>ne, &amp; dic Reg<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tuo apud <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>feres, Haereticis fidem non eſſe ſervan<g ref="char:EOLhyphen"/>dam. Quaerela Hungaria.</note> 
+                  <hi>Goe now Julian, and tell thy King in heil, that he need not keep faith with heretickes.</hi> Yea, this ſin was odious in the ve<g ref="char:EOLhyphen"/>ry heathen;
+<note n="p" place="margin">
+                     <hi>Senatorum i<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>nus perfidia Car<g ref="char:EOLhyphen"/>thaginenſium i<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ſeſtus ſucclamat, per ques Deos fo<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>dos acturi eſſent, cum <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> perquos anto ictum fefelliſſens: Per coſdem, inquit Aſdrubal, qui <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>am infeſti fun<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aedera violanti<g ref="char:EOLhyphen"/>b<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</hi> Livius Hiſt-ab urbe cond lib. 30.</note> When the <hi>Carringinion</hi> in a low eſtate ſent Embaſſadors to <hi>Rowts,</hi> to defire conditions of
+<pb n="16" facs="tcp:159715:11"/>peace, one of the Senators offended at their former perjury, demands by what God they would ſwear, (for they had deceived thoſe gods by whom they had for<g ref="char:EOLhyphen"/>merly ſworn) <hi>Aſdrubal</hi> anſwers, by the ſame Gods that ſit ſo heavie upon them that break covenants: When <hi>Tiſſaphernes</hi> had obtained a truce from <hi>Ageſilaus,</hi> and had ſworn that in that ſhort time he would procure li<g ref="char:EOLhyphen"/>berty for the Grecian Cities in <hi>Aſia;</hi> but contrary to his oath gathered ſouldiers to fight againſt him: <hi>Age<g ref="char:EOLhyphen"/>ſilaus</hi> kept the truce till the time expired, and then ſent a meſſage of thanks to <hi>Tiſſaphernes</hi>
+                  <note n="q" place="margin">
+                     <hi>Habere ſe magnam ipſi gratiam quòd perjurio Deos ſibi infeſtos reddid<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſet, Graetis verò belli ſocios,</hi> Xenoph. c. 4. vitae Ageſil.</note>, that by his perju<g ref="char:EOLhyphen"/>ry hee had made the Gods his enemies, and engaged them to aſſiſt the <hi>Grecian</hi> Army in the war. We read alſo that one <hi>Epicidides,</hi> going to enquire at the Ora<g ref="char:EOLhyphen"/>cle of
+<note n="r" place="margin">
+                     <hi>Iuſiurandi ſed filia nomi<g ref="char:EOLhyphen"/>nis expers, Trunca pedu<g ref="char:cmbAbbrStroke">̄</g>, manuumque celerrima, ſed tamen inſtat, perſequitur<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> virum dum ſtirpem fund<g ref="char:EOLhyphen"/>tus omnem bauſcrit.</hi> Nic. Chron. Hiſt. Imp Manuel. Com.</note> 
+                  <hi>Delphos,</hi> received an anſwer, <hi>That perjury would purſue a man till it had rooted out all his poſterity.</hi> So odi<g ref="char:EOLhyphen"/>ous was this ſin to men altogether ignorant of the true God. And do we marvell then, that God ſends plagues upon his people for neglect of vows made to himſelf?</p>
+               <p>It is now high time to come to the third obſervati<g ref="char:EOLhyphen"/>on, which is this:</p>
+               <p>God will at length rub up the memories of his ſer<g ref="char:EOLhyphen"/>vants,
+<label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>3</label> and put them in mind of their vowes.</p>
+               <p>God doth not ſtraightway deliver <hi>Jacob</hi> out of his trouble, but calls upon him firſt to perform his vow made to him for former mercies. As
+<note n="ſ" place="margin">Gen. 41.8, 9.</note> 
+                  <hi>Pharaohs</hi> Butler is put in mind of his neglect of <hi>Joſeph,</hi> by <hi>Pharachs</hi> dream; ſo God finds a way to put his in mind of their vowes.</p>
+               <p>Two things I have to do: Firſt, to ſhew, how God doth this. Secondly, why he doth it.</p>
+               <p>For the firſt, <hi>How God doth it.</hi>
+               </p>
+               <pb n="17" facs="tcp:159715:11"/>
+               <p> God rubs up their memories, firſt, by troubles,
+<label type="milestone">
+                     <seg type="milestoneunit">Means. </seg>1</label> cala<g ref="char:EOLhyphen"/>mities, fear of wars: So he deals here with <hi>Jacob. Bella Deiflagella,</hi> wars are Gods ſcourges. And parents of<g ref="char:EOLhyphen"/>tentimes make their children call to mind their faults, by taking away their victuals, and whipping them.</p>
+               <p>Secondly,
+<label type="milestone">
+                     <seg type="milestoneunit">Means. </seg>2</label> if the hearts of Gods children be not yet ſo intelligent as to underſtand Gods meaning by his blows, he will open their eares, and tell it them in his word: So he doth here to <hi>Jacob,</hi> he tels him his fault, but very gently, he doth not upbraid him with perju<g ref="char:EOLhyphen"/>ry, nor call him a vow-breaker; nay not ſo much as names his vow, but inſinuates it rather, that <hi>Iacob</hi> might ſee, God ſought not to ſhame him, but to amend him. We muſt not look for ſuch revelations now: but God often meets with us in the miniſtery of his Word, and makes us ſee thoſe faults in our ſelves which we little dreamed of, and covenant-breaking among the reſt. Many wicked men marvell to hear Gods Miniſters rip up their ſecret faults, as if they were in their boſomes: good men I hope will ſooner be informed by them.</p>
+            </div>
+            <div type="section">
+               <head>For the ſecond, <hi>Why God doth it.</hi>
+               </head>
+               <p>Firſt,
+<label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>1</label> becauſe Gods name and honour ſuffers in their forgetfulneſſe. Vowes are made for the <hi>honor of God.</hi> But if they be not performed, God is not honored by them, nay he is diſhonored, as being ſlighted by his own people.</p>
+               <p>Secondly,
+<label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>2</label> becauſe God deſires and delights in the good of his people. So ſings the <hi>Pſalmiſt,
+<note n="t" place="margin">Pſal. 35.27.</note> Let the Lord be magnified, who hath pleaſure in the proſperity of his ſer<g ref="char:EOLhyphen"/>vant.</hi> Now he knows that our forgetfulneſſe and un<g ref="char:EOLhyphen"/>thankfulnes wil hinder us of much good, &amp; bring ma<g ref="char:EOLhyphen"/>ny judgments upon us; which to prevent, God puts us in mind of our vows and covenants.</p>
+               <p>I proceed to the laſt point.</p>
+               <pb n="18" facs="tcp:159715:12"/>
+               <p> In performanes of Vowes,
+<label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>4</label> and in times of Refor<g ref="char:EOLhyphen"/>mation, God looks for his part firſt.</p>
+               <p>God doth not bid <hi>Iacob</hi> go ſhift for himſelfe in this troublous time, nor enquire out the kindred of the <hi>Shechemites</hi> to reſtore their goods to them, but he bids him <hi>goe build an Altar to God.</hi> And <hi>Iacob</hi> accordingly goes about it. This is the method of Gods command<g ref="char:EOLhyphen"/>ments; the firſt Table contains <hi>duties to God:</hi> the ſe<g ref="char:EOLhyphen"/>cond, <hi>to our ſelves, and our neighbours.</hi> This is the me<g ref="char:EOLhyphen"/>thod of our prayers; our Saviour reacheth us firſt to pray for the <hi>honour of Gods Name, Kingdome</hi> and <hi>Will,</hi> be<g ref="char:EOLhyphen"/>fore we pray for <hi>daily bread, pardon of ſinnes,</hi> or <hi>power a<g ref="char:EOLhyphen"/>gainſt temptations.</hi> This is the method of our Faith, in the Articles whereof, and moſt Confeſſions, we firſt profeſſe what we beleeve concerning <hi>God,</hi> and then concerning <hi>our ſelves.</hi> This is the method of our Co<g ref="char:EOLhyphen"/>venant, both in the Preface, looking firſt at the <hi>glory of God, and the advancement of the Kingdome of Jeſus Chriſt,</hi> and then at <hi>our own priviledges;</hi> and in the body of it, the two firſt Articles concerning <hi>Religion,</hi> and the fol<g ref="char:EOLhyphen"/>lowing ones concerning our <hi>Liberties.</hi> This was the method of the ancient <hi>Romans,</hi> as <hi>Dionyſius Halicarnaſ<g ref="char:EOLhyphen"/>ſeus</hi> reports. There are three things, ſaith he, that make a State happy,
+<note n="u" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>&amp;c.</hi>
+                  </note> firſt, the care of religion; ſecondly, of temperance and juſtice in peace; thirdly, of military diſcipline in war. The <hi>Romans</hi> were carefull of religi<g ref="char:EOLhyphen"/>on in the firſt place, they provided Temples &amp; Altars for their Gods; and this they conceived to be a main reaſon of the large extent of their Empire. <hi>Solomon</hi> was longer in building his own houſe: but he builded Gods houſe firſt, as appears, 1 <hi>King.</hi> 7.1. 2 <hi>Chron.</hi> 8.1.</p>
+               <p>For the reaſons briefly. The firſt is, becauſe God is more worthy to be regarded then our ſelves: therfore
+<pb n="19" facs="tcp:159715:12"/>the love of God is called,
+<note n="x" place="margin">Mat. 22.37, 38, 39.</note> 
+                  <hi>The firſt and great commande<g ref="char:EOLhyphen"/>ment:</hi> and we are commanded <hi>to love God with all our heart, ſoule, and mind,</hi> but our ſelves and our neighbours in a lower degree of love like the former, but not equal to it. From God we have all that we have here, or hope for hereafter; and the fountain muſt be preferred before the ſtreams, the ſea before the rivers.</p>
+               <p>The ſecond is, becauſe that is our care properly,
+<label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>2</label> 
+                  <hi>To honour God.</hi> It is Gods care to provide for our ſouls &amp; bodies: not but that we may uſe the means for the good of either, looking for a bleſſing from God; but not in the firſt place: our prime care muſt be for <hi>Gods Glory.</hi> When a maſter enters into covenant with a ſervant, he looks that he ſhould take care of his work, and leave the care of proviſions to his maſter. So doth God look for the like at our hands. Firſt obedience to God, then faith in God. I have done with the Doctrinall part, and come to the Practicall.</p>
+               <p>Here is firſt of all,
+<label type="milestone">
+                     <seg type="milestoneunit">Uſe </seg>1</label> a leſſon of <hi>Humiliation</hi> fit for the day, to bewail among our other ſins, our ſluggiſhnes, in not remembring thoſe things which concern our own ſafety. I am afraid, leſt we be in <hi>Jeruſalems</hi> caſe, that
+<note n="y" place="margin">Luke 19.42.</note> in this our day we know not the things that be long to our peace. And may we not then expect <hi>Jeruſalems</hi> end? Our forgotten vowes ſhould fetch ſighes from our hearts, and tears from our eyes this day. Many of us (I doubt) may with <hi>Pharaohs</hi> Butler, cry out,
+<note n="z" place="margin">Gen. 41.9.</note> 
+                  <hi>I do remem<g ref="char:EOLhyphen"/>ber my faults this day.</hi> Weep, I beſeech you, that refor<g ref="char:EOLhyphen"/>mation ſo long ſince vowed, goes no faſter on. It is a ſigne the body is much out of order, when ſo ſtrong a Purge as a National vow and covenant works no bet<g ref="char:EOLhyphen"/>ter; and let them weep moſt who are greateſt, and nee<g ref="char:EOLhyphen"/>reſt to God, and ſo moſt concerned in it. Lordly tears may become this day as well as common ones. We are
+<pb n="20" facs="tcp:159715:13"/>met for this end, let us not miſſe of our end; elſe all the labour of this day will be loſt. I doubt not but every one of us, even the greateſt and the beſt, may find ſome<g ref="char:EOLhyphen"/>what in our ſelves, that may hinder our vowed refor<g ref="char:EOLhyphen"/>mation, if we would look well into our own ſouls. The Lord ſhew it us what ever it be, and give us grace to repent of it.</p>
+               <p>Secondly,
+<label type="milestone">
+                     <seg type="milestoneunit">Uſe </seg>2</label> here is a leſſon of <hi>Meditation.</hi> Think of<g ref="char:EOLhyphen"/>ten of your vow and covenant; for the reaſon why men, eſpecially good men, neglect it, is, becauſe they think not often and ſeriouſly of it. Our Saviour Chriſt ap<g ref="char:EOLhyphen"/>pointed the Bread and Wine in the Sacrament of the Lords Supper, to be the ſignes and remembrances of his death to us. A thing ſo beneficiall to us one would think ſhould need no remembrance, but ſhould always be freſh in our minds. So ſhould our covenant, that hath proved, and is like to prove ſo beneficiall to three Kingdoms; yet we had need often to call it to mind. God by <hi>Moſes</hi> often calls upon the <hi>Iſraelites</hi> inthe wil<g ref="char:EOLhyphen"/>dernes, to remember
+<note n="a" place="margin">Deut. 4.9.10, 20.</note> the things which they had ſeen, and not to forget the great things God had done for them. Surely, we had need often to call upon our own ſouls, to think of our vowes made unto Almighty God; we would be loath that God ſhould forget his covenant to us,
+<note n="b" place="margin">Pſal. 12.4.1, 2, 3.</note> 
+                  <hi>Our enemies would then ſoon ſmallow us up.</hi> Why do we then forget our part of the covenant?</p>
+               <p>Thirdly,
+<label type="milestone">
+                     <seg type="milestoneunit">Uſe </seg>3</label> here is a leſſon of <hi>Acknowledgement,</hi> to teach us to impute any continuance of our troubles to our neglect of our covenant: very few have mended them<g ref="char:EOLhyphen"/>ſelves, fewer their families, and ſeweſt of all have en<g ref="char:EOLhyphen"/>deavoured to amend the publick, according to the truſt repoſed in them. Somewhat of our ſelves is ſought af<g ref="char:EOLhyphen"/>tor of moſt men, even in the very work of reformation. Our plow goes along with Gods; we look for a ſhare
+<pb n="21" facs="tcp:159715:13"/>of proſit, or honour in the work, and doe it not with a ſingle eye out of love and reſpect to God: We would joyn God and the world together. And hence come many rubs and hinderances of the great work of refor<g ref="char:EOLhyphen"/>mation. We ſhould therefore this day not only bewail our ſluggiſhneſſe in regard of the ſinfulneſſe of it, but alſo in reſpect of the ſad effects of troubles, feares and jealouſies, that yet attend upon our non-perfor<g ref="char:EOLhyphen"/>mance of our vows. A diſeaſe can never be cured, till the corrupt humour which cauſeth it, be known, and purged away; nor our Church and State troubles re<g ref="char:EOLhyphen"/>moved, till we have bewailed our remiſneſſe, and amen<g ref="char:EOLhyphen"/>ded it, which is the next uſe in order, and without which weeping will do no good at all.</p>
+               <p>Fourthly, here is a leſſon of <hi>Incitement,</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Uſe. </seg>4</label> to perſwade us to be careful to pay our vows for time to come; elſe muſt we daily expect new and greater troubles and ſor<g ref="char:EOLhyphen"/>rows. But it will be objected, We have performed our covenant: have not we pulled down Popery and Prela<g ref="char:EOLhyphen"/>cy, deſtroyed Croſſes and Altars, moruments of ſuper<g ref="char:EOLhyphen"/>ſtition, and cut the chroat of innovations? Well, go on, have we yet rooted out ſchiſme &amp; hereſie? have we ſlain prophanoneſſe and impiety?
+<note n="c" place="margin">1 Sam. 15.14.</note> 
+                  <hi>What meares then the low<g ref="char:EOLhyphen"/>ing of the owen, and the bleating of the ſheep?</hi> Are nor many now-a-days of <hi>Gallio's</hi> religion?
+<note n="d" place="margin">Acts 18.14, 15, 16, 17.</note> If it were a matter of right or wrong to men, they would meddle in it; but if it be a matter of religion, <hi>Gallio</hi> cared for none of thoſe things. The <hi>Turks,</hi> if a man <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſphe me <hi>Mahamet,</hi> put him to death without mercy; but if he blaſpheme God, they only ſcourge him with rods. And being de<g ref="char:EOLhyphen"/>manded a reaſon, they anſwer, <hi>That God can right him<g ref="char:EOLhyphen"/>ſelf, but Mabomet cannot.</hi> It may bee many now are willing enough to put off Gods cauſe to the day of judgement, ſo theirs may be righted now. I am afraid
+<pb n="22" facs="tcp:159715:14"/>that many may this day ſay with <hi>Naaman, In this thing the Lord pardon me,</hi> that although I have not countenan<g ref="char:EOLhyphen"/>ced hereſie, ſchiſme, or prophaneneſſe in my own per<g ref="char:EOLhyphen"/>ſon, yet I have not been ſo carefull as I might, to pull it down by my authority in others. It is not good to be ſo buſie for the Lord of hoſts, it is good ſleeping in a whole skin. Which of us can ſay with <hi>Elijah,
+<note n="e" place="margin">1 Kings 19.10.</note> I have been very zealous for the Lord of hoſts; for the children of Iſ<g ref="char:EOLhyphen"/>rael have forſaken thy covenant?</hi> Or with <hi>Jehu,
+<note n="f" place="margin">2 Kings 10.16.</note> Come with me, and ſee my zeal for the Lord? Jehu</hi> was an hypocrite, yet he
+<note n="g" place="margin">2 Kings 10.18, 30.</note> 
+                  <hi>rooted Baal out of Iſrael,</hi> and obtained the King<g ref="char:EOLhyphen"/>dome for his poſterity to the fourth generation. But if that were done, and here ſies, ſchiſmes, ſects, and pro<g ref="char:EOLhyphen"/>phaneneſſe pulled down by publick ordinances; have we ſet up a Church government in the Kingdome nee<g ref="char:EOLhyphen"/>reſt to Gods word, and the pattern of the beſt refor<g ref="char:EOLhyphen"/>med Churches? Let no man tell me that we covenanted onely to pull down the former government, but not to ſet up a new form in the room of it, and that the hono<g ref="char:EOLhyphen"/>rable Houſes muſt interpret the covenant, who impo<g ref="char:EOLhyphen"/>ſed it, and not we that took it. Be it ſo, yet are we con<g ref="char:EOLhyphen"/>fident, that the honorable Houſes will never give a ſenſe of the covenant contrary to common ſenſe, ſuch as this is; we covenant to bring three Kingdoms to the neereſt conjunction and uniformity in <hi>a form of Church Government,</hi> that is, we intend only to pull down Epi<g ref="char:EOLhyphen"/>ſcopacy, &amp; then let every Sect ſet up what government they pleaſe. Pulling down joyntly, will not bring us to <hi>one form of Church government,</hi> it leavs ſcope enough for 20 kinds of Church government, &amp; 10000 errors to be taught co<g ref="char:cmbAbbrStroke">̄</g>trary to Gods word, to the pulling down of Gods Church. Wil that interpretation give ſatisfactio<g ref="char:cmbAbbrStroke">̄</g> to the co<g ref="char:cmbAbbrStroke">̄</g>ſcience of a moral man? If not, as I am co<g ref="char:cmbAbbrStroke">̄</g>fident it will not, how ſhould it then ſatisfie the conſcience of
+<pb n="23" facs="tcp:159715:14"/>a religious man, unleſs it be biaſſed by ſelf-ends before? It is like the gloſſe on <hi>Gratian,
+<note n="h" place="margin">
+                        <hi>Statnimus.</hi> i. <hi>Abrogamm.</hi> Diſt. 4. c. <hi>Statuimus.</hi>
+                     </note> We enact, that is, we ab<g ref="char:EOLhyphen"/>rogate it, and forbid it;</hi> or that on the <hi>Code,
+<note n="i" place="margin">
+                        <hi>Que magis.</hi> i. <hi>Que mius.</hi> Gloſſ ad Cod. l. 3. de Iudiciis. <hi>Quoties.</hi>
+                     </note> How much more,</hi> that is, <hi>How much leſſe. But be not deceived, God is not
+<note n="k" place="margin">Gal. 6.7. Gr. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. <hi>eſt autem</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>à ſubſan<g ref="char:EOLhyphen"/>nantium geflu tractumvocabulu<g ref="char:cmbAbbrStroke">̄</g> quod Latine na<g ref="char:EOLhyphen"/>ſo adunco, five excuſſo ſuſpende<g ref="char:EOLhyphen"/>re,</hi> uti Flaccus, ſerm. lib. 1. ſat. 6. &amp; Perſius ſat. 1.</note> mocked.</hi> Give me leave to preſſe you with a ſimilitude or two, to perſwade you to more diligent and carefull performance of your vow and covenant for the time to come, that ſo yee may expect a greater bleſſing from God, and an end of our preſent calamities.
+<note n="l" place="margin">
+                     <hi>Quicun<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> com<g ref="char:EOLhyphen"/>modatam pecu<g ref="char:EOLhyphen"/>niam credito<g ref="char:EOLhyphen"/>ri reddiderit, ſibi reponit. Non dif<g ref="char:EOLhyphen"/>ficile enim homo cum opus fuerit, quodlsbes impe<g ref="char:EOLhyphen"/>trat ſi foeneratori ſuo celeri ſa<g ref="char:EOLhyphen"/>ſatu factiono re<g ref="char:EOLhyphen"/>ſponait. Iſle vero quem perſidia ar<g ref="char:EOLhyphen"/>gust, ſemper cre<g ref="char:EOLhyphen"/>ditoris ſui ianna<g ref="char:cmbAbbrStroke">̄</g> clauſam <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nvenet, &amp; quamv is fre<g ref="char:EOLhyphen"/>quenter pulſet &amp; ſupplicet, riſtas a<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> vacuus cum in<g ref="char:EOLhyphen"/>crepatione rece<g ref="char:EOLhyphen"/>dis.</hi> Valerianu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Suppoſe ſome one of you had a rich &amp; kind neighbour, of whom he might borrow mony whenſoever he needed; pro<g ref="char:EOLhyphen"/>vided that he repaid it at his day; ſo might he be bold to come again and borrow greater ſums. But if he break his day, he may come again &amp; again, knock often at the doore, and no man let him in; intreat, and yet goe away empty, ſad, and with reproachfull ſpeeches. This is your caſe. If yee perform your vowes, yee may be bold to come to God as often as ye will in the greateſt trou<g ref="char:EOLhyphen"/>bles. But if yee neglect them, yee may
+<note n="m" place="margin">
+                     <hi>Non Des u<g ref="char:EOLhyphen"/>ſihus neceſſarium eſt quod in tribu<g ref="char:EOLhyphen"/>lationibus pro<g ref="char:EOLhyphen"/>mittis. Ob hoc à <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e tuum munus quaeritur, ut spſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> fulgees tuo auro, ipſo tuo niteas argente, <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſe tuis gemmis orueris ipſe tuo ſirico veſtiaris. Tuis donis tuam vuſe Deus animam compo<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, quam vi<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t ant ſuperbia, au<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> nequitia, and a veritiae, <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> luxuria vitio depravatam.</hi> Valetianus.</note> ask, and be de<g ref="char:EOLhyphen"/>nied; ſeek, and not find; knock, and no man will open to you. Had any of you a tenant whoſe leaſe were expi<g ref="char:EOLhyphen"/>red, his rent not paid, the houſe run to ruine; if hee ſhould ſue for a new leaſe, would yee not anſwer, Pay your old rent firſt, and repair the houſe, then I wil talk with you of a new leaſe? Such an anſwer may yee look for from God, if yee keep not your covenant. What are your vows to God, which yee make in your af<g ref="char:EOLhyphen"/>flictions? Hath God any need of them? Gets he any good by them? Thy gift is required of thee, that thou mayſt ſhine in thy gold, that thou mayſt be bright in thy ſilver, that thou mayſt bee adorned with thy own jewels, that thou mayſt be cloathed in thine own filk.
+<pb n="24" facs="tcp:159715:15"/>God would have thy ſoul ſet in order with thy gifts. He knows it is corrupted with pride, or wickedneſſe, or covetouſneſſe, or luxury. Yet though our diſcharge of our vowes give us free acceſſe to God in all our wants, and bring no good to God, but all good to us, when the reckoning is caſt up,
+<note n="o" place="margin">
+                     <hi>Aeſtimes miſeros oblivienis bibiſſe pocula, magis quàm ſalutis.</hi> Valer.</note> we ſhall find that wret<g ref="char:EOLhyphen"/>ched men delivered by God, have not with the Pſalmiſt
+<note n="p" place="margin">Pſal. 116.13.</note> 
+                  <hi>taken up the cup of ſalvation,</hi> but of <hi>oblivion.</hi> God give us grace to perform our vows better, and to remember that of the Rabbins,
+<note n="q" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Ber. Rab. Sect. 81.</note> 
+                  <hi>In time of trouble, a vow; in time of reſpiration, haſte;</hi> and be as forward to pay in proſperi<g ref="char:EOLhyphen"/>ty, as to vow in adverſity.</p>
+               <p>Fifthly,
+<label type="milestone">
+                     <seg type="milestoneunit">Uſe </seg>5</label> here is a leſſon of <hi>Gratulation.</hi> Let us praiſe God that will not let us periſh by neglecting to honor him by performance of our vows, and ſo be neglected of him for ever. He knows our forgetfulneſſe and un<g ref="char:EOLhyphen"/>thank fulneſſe would undoe us, and he puts us in mind of our vows to preſerve us: yea, let us praiſe God, that by his miniſters this day he admoniſheth us of them, that we may perform them, and prevent further jarres and troubles.</p>
+               <p>Sixthly,
+<label type="milestone">
+                     <seg type="milestoneunit">Uſe </seg>6</label> here is a leſſon of <hi>Reformation.</hi> Let me leave the people and ſpeak to you, honorable Lords, who have called me to ſpeak to you this day; I beſeech you give me leave to ſpeak home. I have one petition to put up to your Lordſhips; if you deny it me, I ſhall be never the worſe; if ye grant it me, you ſhall be much the better. In brief, it is this, that ye would begin with a particular and perſonall, and end with a generall and publick reformation. Be godly for time to come in earneſt, and be not content with ſhewes of godlineſſe, no more then ye are with the ſhews of honor. Imitate <hi>Jacob</hi> here, being called to reform, he not only mends his fault whereof he was admoniſhed, but alſo reforms
+<pb n="25" facs="tcp:159715:15"/>his family, makes them put away their Idols, call upon them to cleanſe themſelves, and change their garments, which were ſignes of <hi>for ſaking ſin, and putting on righteouſnes.</hi> An inſtrument can ne<g ref="char:EOLhyphen"/>ver make good muſick to others, til it be put in tune it ſelf. I never look to ſee any man a through-reformet, that is not a godly man. A wicked man will ever be afraid of going too far in the work of reformation, leſt he laſh himſelf or his. But a godly man had ra<g ref="char:EOLhyphen"/>ther purge away his own ſins, then other mens. Like a charitable Phyſician, that is willing to heale his poore neighbours, but will firſt heale himſelfe and his family. Charity, they ſay, begins at home. How can we think your Lordſhips have charity to healo<g ref="char:EOLhyphen"/>ther mens ſouls, if ye have none to your ſelves nor yours? Honour your places more then your places can honour you. Remember that <hi>Talmedieal</hi> ſaying,
+<note n="r" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Shab. fol. 145.2,</note> 
+                  <hi>In my own City my name, in another my gar<g ref="char:EOLhyphen"/>ment ſhall eredit me.</hi> Count piety your greateſt ornament, it is a Mott<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may well become the S<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tcheon of the greateſt noble man in the Kingdom, <hi>Pie<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as veranobilitas.</hi> God lineſſe makes men likeſt to God, and bring<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them neereſt to him. And what greater prefer<g ref="char:EOLhyphen"/>ment can this world afford, or that which is to come? Your Lord<g ref="char:EOLhyphen"/>ſhips are ſtars of the firſt magnitude in the heaven of this State. O ſhine brighteſt in the beams of piety. You owe moſt to God, and muſt do moſt for God. God hath betruſted you with the greateſt talents, and
+<note n="ſ" place="margin">Luke 12.48.</note> expects the greateſt account from you.
+<note n="t" place="margin">
+                     <hi>Grandis ho<g ref="char:EOLhyphen"/>nos, ſed grave pondus iſtius eſt honoris,</hi> Greg in E<g ref="char:EOLhyphen"/>vang. Hom. 26.</note> 
+                  <hi>Honos</hi> and <hi>Onus</hi> goe together. The faireſt Steed muſt have his Saddle. Every honour muſt bear its burden. That meaſure of piety will not ſerve a noble man, that will ſurve a meaner perſon; unleſſe that meaſure of honour will ſerve you. You look for much reſpect from men of a lower ſpheare<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gods looks for more from you, becauſe there is a larger diſtance between the Creator and the higheſt creature, then can be between the higheſt and loweſt of all the creature. Let not the Comm<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> out goe you in piety, leſt they prove more ho<g ref="char:EOLhyphen"/>norable then you in the end. God ſaith,
+<note n="u" place="margin">Pſal. 82.6.</note> 
+                  <hi>I bu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o ſaid ye are Gods,</hi> in regard of your power, give us cauſe to ſay ſo too in regard of your ho ineſſe. I beſeec<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you take away from us all occaſions of Court-idolatry. Teach us in you to honour men more for their worth then for their grea neſſe. We know not how
+<note n="x" place="margin">Pſal. 15.4.</note> cordially to honour a proud <hi>Haman,</hi> a looſe <hi>Amnon,</hi> a covetous <hi>Nabal.</hi> But we ran lay our heads down at the feet of religious Lords to doe them good.
+<pb n="26" facs="tcp:159715:16"/>Account of honour without piety, as the Jewes doe of a body without wiſdome. They ſay it is
+<note n="y" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> like a houſe without a founda<g ref="char:EOLhyphen"/>tion. Carry your ſelves ſo, that Lords on earth may be Saints in heaven. That honour will laſt when your Lordſhips are gone, and their Royalties that made you Lords. From this perſonall refor<g ref="char:EOLhyphen"/>mation proceed with comfort and courage to the publick. We are met now to humble our ſoules before the ſupream Lord of hea<g ref="char:EOLhyphen"/>ven and earth, to pray to him to ceaſe all our troubles, and to take away the great jealouſies ariſing between the two King<g ref="char:EOLhyphen"/>domes, that the plots of thoſe that would ſet us together by the eares, and make our warres worſe then ever yet they were, may be confounded utterly. God will anſwer, Goe to <hi>Bethel,</hi> and perform your vow, build an Altar to me. Why ſuffer you ſome to rob my deereſt Son, and your onely Saviour of his Deity, and goe unpuniſhed? Why ſuffer ye others in print to rob me of ſo many thouſand yeares of praiſe, I ſhould have in heaven by lay<g ref="char:EOLhyphen"/>ing
+<note n="z" place="margin">Heb. 12.23.</note> the ſpirits of juſt men made perfect aſleep with their bodies till the day of judgement? Why ſuffer ye others co countenance all manner of uncleanneſſe and pollutions of marriage by main<g ref="char:EOLhyphen"/>taining a lawfulneſſe of putting away mens wives, and taking o<g ref="char:EOLhyphen"/>thers for cauſes which I never allowed? Why ſuffer ye books to be printed under colour of maintaining liberty of conſcience for the toleration of all forts of hereſies and blaſphemous religions, that I may in my own land be blaſphemed to my face by publick authority? Why have I advanced you more then others, but that ye ſhould be more jealous of my honour then they? Would any of you keep a Steward that ſhould deale faithfully with your ſervants, give them their meat in due ſeaſon, and not ſuffer them to wrong one another: but would let them diſhonour you to your faces, raile upon you, and embezle your goods? Conſider of theſe things, and the Lord make you publick Reformers here, and glorious
+<note n="a" place="margin">Mat. 22.30.</note> like the Angels in Heaven. <hi>Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
